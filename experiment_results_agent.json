@@ -1,0 +1,4466 @@
+[
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 0,
+    "hint_values": [
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "seconds": {
+      "linear": 4.246001481078565e-06,
+      "transform": 7.401099719572812e-05,
+      "matching": 3.0465998861473054e-05,
+      "equations": 0.00014320600166684017,
+      "total": 0.001860776999819791
+    },
+    "mask": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 35,
+        "rank": 34,
+        "nullity": 1,
+        "elim_ops": 29779,
+        "inversions": 34,
+        "build_seconds": 7.321100201806985e-05,
+        "solve_seconds": 0.0014249689993448555,
+        "nnz": 335,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 1,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 2.1793002815684304e-05,
+      "transform": 1.0586001735646278e-05,
+      "matching": 1.3560998922912404e-05,
+      "equations": 3.589399784686975e-05,
+      "total": 0.00019265999799245037
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      1
+    ],
+    "d": 1,
+    "n0": 4,
+    "s": 6,
+    "blocks": 4,
+    "linear_ops": 90,
+    "transform_ops": 160,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 6,
+        "rank": 5,
+        "nullity": 1,
+        "elim_ops": 413,
+        "inversions": 5,
+        "build_seconds": 1.2658998457482085e-05,
+        "solve_seconds": 3.2187999750021845e-05,
+        "nnz": 45,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 2,
+    "hint_values": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        1,
+        2,
+        2
+      ]
+    ],
+    "seconds": {
+      "linear": 2.6240013539791107e-06,
+      "transform": 6.336599835776724e-05,
+      "matching": 2.235400097561069e-05,
+      "equations": 0.00014966500020818785,
+      "total": 0.0025542319999658503
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 40,
+        "cols": 40,
+        "rank": 39,
+        "nullity": 1,
+        "elim_ops": 43685,
+        "inversions": 39,
+        "build_seconds": 0.00011422200259403326,
+        "solve_seconds": 0.0020995270024286583,
+        "nnz": 393,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 3,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 1.894899833132513e-05,
+      "transform": 9.894996765069664e-06,
+      "matching": 1.2289001460885629e-05,
+      "equations": 1.688499833107926e-05,
+      "total": 0.00015780800094944425
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      1
+    ],
+    "d": 1,
+    "n0": 4,
+    "s": 6,
+    "blocks": 4,
+    "linear_ops": 90,
+    "transform_ops": 160,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 6,
+        "rank": 5,
+        "nullity": 1,
+        "elim_ops": 413,
+        "inversions": 5,
+        "build_seconds": 1.0415998985990882e-05,
+        "solve_seconds": 2.9894999897805974e-05,
+        "nnz": 45,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 4,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        2,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 2.353001036681235e-06,
+      "transform": 5.964999945717864e-05,
+      "matching": 2.0511000911938027e-05,
+      "equations": 7.02659999660682e-05,
+      "total": 0.0018069559991999995
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 35,
+        "rank": 34,
+        "nullity": 1,
+        "elim_ops": 31485,
+        "inversions": 34,
+        "build_seconds": 7.083599848556332e-05,
+        "solve_seconds": 0.001447252001526067,
+        "nnz": 383,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 5,
+    "hint_values": [
+      [
+        0,
+        2,
+        6
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 2.353997842874378e-06,
+      "transform": 6.004999886499718e-05,
+      "matching": 2.1493000531336293e-05,
+      "equations": 8.069199975579977e-05,
+      "total": 0.002340139999432722
+    },
+    "mask": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 40,
+        "cols": 40,
+        "rank": 39,
+        "nullity": 1,
+        "elim_ops": 44566,
+        "inversions": 39,
+        "build_seconds": 7.177799852797762e-05,
+        "solve_seconds": 0.002005775000725407,
+        "nnz": 403,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 6,
+    "hint_values": [
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 2.2029998945072293e-06,
+      "transform": 8.547900142730214e-05,
+      "matching": 2.14020001294557e-05,
+      "equations": 8.092200005194172e-05,
+      "total": 0.0023944910026330035
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 40,
+        "cols": 40,
+        "rank": 39,
+        "nullity": 1,
+        "elim_ops": 44254,
+        "inversions": 39,
+        "build_seconds": 8.166400220943615e-05,
+        "solve_seconds": 0.0020237619974068366,
+        "nnz": 407,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 7,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        2,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 2.073000359814614e-06,
+      "transform": 7.456200182787143e-05,
+      "matching": 2.180299998144619e-05,
+      "equations": 7.009500041021965e-05,
+      "total": 0.0017677659998298623
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 35,
+        "rank": 34,
+        "nullity": 1,
+        "elim_ops": 31485,
+        "inversions": 34,
+        "build_seconds": 7.583499973407015e-05,
+        "solve_seconds": 0.0014317589993879665,
+        "nnz": 383,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 8,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        2,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 2.1429987100418657e-06,
+      "transform": 5.9350000810809433e-05,
+      "matching": 1.922899900819175e-05,
+      "equations": 7.060699863359332e-05,
+      "total": 0.001919606002047658
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 35,
+        "rank": 34,
+        "nullity": 1,
+        "elim_ops": 31485,
+        "inversions": 34,
+        "build_seconds": 7.52240011934191e-05,
+        "solve_seconds": 0.0015991119980753865,
+        "nnz": 383,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      5,
+      2,
+      2
+    ],
+    "seed": 9,
+    "hint_values": [
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        1,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 2.2929998522158712e-06,
+      "transform": 6.080100138206035e-05,
+      "matching": 2.3354998120339587e-05,
+      "equations": 6.941500032553449e-05,
+      "total": 0.002006547001656145
+    },
+    "mask": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 5,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1080,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 35,
+        "rank": 34,
+        "nullity": 1,
+        "elim_ops": 30951,
+        "inversions": 34,
+        "build_seconds": 6.94740010658279e-05,
+        "solve_seconds": 0.001676879997830838,
+        "nnz": 343,
+        "solution": {
+          "x": [
+            1,
+            4,
+            1,
+            4,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10000,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "seconds": {
+      "linear": 2.7240021154284477e-06,
+      "transform": 7.996099884621799e-05,
+      "matching": 2.2413998522097245e-05,
+      "equations": 7.423199713230133e-05,
+      "total": 0.003132644997094758
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 6,
+    "n0": 5,
+    "s": 6,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1584,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 36,
+        "rank": 35,
+        "nullity": 1,
+        "elim_ops": 34170,
+        "inversions": 35,
+        "build_seconds": 8.468699888908304e-05,
+        "solve_seconds": 0.0027626070004771464,
+        "nnz": 398,
+        "solution": {
+          "x": [
+            1,
+            0,
+            0,
+            5,
+            3,
+            2
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10001,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "seconds": {
+      "linear": 3.155000740662217e-06,
+      "transform": 0.0001442969987692777,
+      "matching": 2.4255998141597956e-05,
+      "equations": 0.00010264499724144116,
+      "total": 0.001955649997398723
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 6,
+    "n0": 5,
+    "s": 6,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1584,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 36,
+        "rank": 35,
+        "nullity": 1,
+        "elim_ops": 34170,
+        "inversions": 35,
+        "build_seconds": 8.52289995236788e-05,
+        "solve_seconds": 0.0014970279989938717,
+        "nnz": 398,
+        "solution": {
+          "x": [
+            1,
+            0,
+            0,
+            5,
+            3,
+            2
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10002,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 2.10920006793458e-05,
+      "transform": 2.0782001229235902e-05,
+      "matching": 1.2758999218931422e-05,
+      "equations": 2.0440998923731968e-05,
+      "total": 0.0002432569999655243
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 112,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 1143,
+        "inversions": 9,
+        "build_seconds": 1.984000118682161e-05,
+        "solve_seconds": 8.426700151176192e-05,
+        "nnz": 69,
+        "solution": {
+          "x": [
+            5,
+            0,
+            0,
+            4,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10003,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 1.9899998733308166e-05,
+      "transform": 2.0461000531213358e-05,
+      "matching": 1.1347001418471336e-05,
+      "equations": 1.9399001757847145e-05,
+      "total": 0.0002078239995171316
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 112,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 1143,
+        "inversions": 9,
+        "build_seconds": 1.5022000297904015e-05,
+        "solve_seconds": 6.392599971150048e-05,
+        "nnz": 69,
+        "solution": {
+          "x": [
+            5,
+            0,
+            0,
+            4,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10004,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "seconds": {
+      "linear": 1.9499999325489625e-05,
+      "transform": 2.0421000954229385e-05,
+      "matching": 1.065600008587353e-05,
+      "equations": 2.129199856426567e-05,
+      "total": 0.0002096860007441137
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 112,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 1095,
+        "inversions": 9,
+        "build_seconds": 1.5273002645699307e-05,
+        "solve_seconds": 6.382600258802995e-05,
+        "nnz": 73,
+        "solution": {
+          "x": [
+            5,
+            0,
+            0,
+            4,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10005,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "seconds": {
+      "linear": 1.9458999304333702e-05,
+      "transform": 2.0131003111600876e-05,
+      "matching": 1.1146999895572662e-05,
+      "equations": 1.9289000192657113e-05,
+      "total": 0.00020165399837424047
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 112,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 1095,
+        "inversions": 9,
+        "build_seconds": 1.482299921917729e-05,
+        "solve_seconds": 6.242400195333175e-05,
+        "nnz": 73,
+        "solution": {
+          "x": [
+            5,
+            0,
+            0,
+            4,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10006,
+    "hint_values": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        2,
+        5
+      ]
+    ],
+    "seconds": {
+      "linear": 2.7040005079470575e-06,
+      "transform": 7.850799738662317e-05,
+      "matching": 1.9950999558204785e-05,
+      "equations": 7.238899706862867e-05,
+      "total": 0.0019786449993262067
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 6,
+    "n0": 5,
+    "s": 6,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 1584,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 36,
+        "cols": 36,
+        "rank": 35,
+        "nullity": 1,
+        "elim_ops": 35456,
+        "inversions": 35,
+        "build_seconds": 8.047099981922656e-05,
+        "solve_seconds": 0.0016185909989872016,
+        "nnz": 382,
+        "solution": {
+          "x": [
+            1,
+            0,
+            0,
+            5,
+            3,
+            2
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10007,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        1,
+        2,
+        5
+      ]
+    ],
+    "seconds": {
+      "linear": 2.0551000488922e-05,
+      "transform": 2.0630999642889947e-05,
+      "matching": 1.181799962068908e-05,
+      "equations": 2.0299998141126707e-05,
+      "total": 0.00022451899712905288
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      2
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 100,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 881,
+        "inversions": 9,
+        "build_seconds": 1.4581997675122693e-05,
+        "solve_seconds": 5.399200017563999e-05,
+        "nnz": 64,
+        "solution": {
+          "x": [
+            5,
+            0,
+            0,
+            4,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10008,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "seconds": {
+      "linear": 2.121199941029772e-05,
+      "transform": 2.1122003090567887e-05,
+      "matching": 1.1427000572439283e-05,
+      "equations": 1.9859999156324193e-05,
+      "total": 0.00020681199748651125
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      1
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 113,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 1031,
+        "inversions": 9,
+        "build_seconds": 1.5894001990091056e-05,
+        "solve_seconds": 6.11120012763422e-05,
+        "nnz": 76,
+        "solution": {
+          "x": [
+            3,
+            0,
+            0,
+            1,
+            2,
+            6
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      4,
+      5,
+      6,
+      2,
+      3
+    ],
+    "seed": 10009,
+    "hint_values": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        0,
+        2,
+        3
+      ],
+      [
+        1,
+        2,
+        5
+      ]
+    ],
+    "seconds": {
+      "linear": 1.9639999663922936e-05,
+      "transform": 2.0321000192780048e-05,
+      "matching": 1.0586001735646278e-05,
+      "equations": 1.8528000509832054e-05,
+      "total": 0.00019498399706208147
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      2
+    ],
+    "d": 2,
+    "n0": 4,
+    "s": 5,
+    "blocks": 4,
+    "linear_ops": 100,
+    "transform_ops": 400,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 16,
+        "cols": 10,
+        "rank": 9,
+        "nullity": 1,
+        "elim_ops": 881,
+        "inversions": 9,
+        "build_seconds": 1.3609998859465122e-05,
+        "solve_seconds": 5.3710999054601416e-05,
+        "nnz": 64,
+        "solution": {
+          "x": [
+            5,
+            0,
+            0,
+            4,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20000,
+    "hint_values": [
+      [
+        0,
+        2,
+        5
+      ],
+      [
+        1,
+        2,
+        4
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 2.7611000405158848e-05,
+      "transform": 3.328999810037203e-05,
+      "matching": 1.7916998331202194e-05,
+      "equations": 5.7687000662554055e-05,
+      "total": 0.0015841389977140352
+    },
+    "mask": [
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [
+      2
+    ],
+    "d": 2,
+    "n0": 5,
+    "s": 9,
+    "blocks": 10,
+    "linear_ops": 180,
+    "transform_ops": 720,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 18,
+        "rank": 17,
+        "nullity": 1,
+        "elim_ops": 6949,
+        "inversions": 17,
+        "build_seconds": 0.0010201379991485737,
+        "solve_seconds": 0.00033671699929982424,
+        "nnz": 215,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20001,
+    "hint_values": [
+      [
+        0,
+        2,
+        5
+      ],
+      [
+        0,
+        3,
+        5
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ],
+    "seconds": {
+      "linear": 3.4750009945128113e-06,
+      "transform": 0.00021452299915836193,
+      "matching": 5.909899846301414e-05,
+      "equations": 0.00030323700048029423,
+      "total": 0.014129661998595111
+    },
+    "mask": [
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 11,
+    "blocks": 19,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 95,
+        "cols": 77,
+        "rank": 76,
+        "nullity": 1,
+        "elim_ops": 293554,
+        "inversions": 76,
+        "build_seconds": 0.00027170900284545496,
+        "solve_seconds": 0.013022891998843988,
+        "nnz": 1258,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20002,
+    "hint_values": [
+      [
+        0,
+        3,
+        5
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.068699879804626e-05,
+      "transform": 3.433199890423566e-05,
+      "matching": 2.157199924113229e-05,
+      "equations": 6.485799895017408e-05,
+      "total": 0.0006760700016457122
+    },
+    "mask": [
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [
+      3
+    ],
+    "d": 2,
+    "n0": 5,
+    "s": 9,
+    "blocks": 10,
+    "linear_ops": 204,
+    "transform_ops": 720,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 18,
+        "rank": 17,
+        "nullity": 1,
+        "elim_ops": 7983,
+        "inversions": 17,
+        "build_seconds": 4.166300277574919e-05,
+        "solve_seconds": 0.0003869439970003441,
+        "nnz": 191,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20003,
+    "hint_values": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.264998667873442e-06,
+      "transform": 0.0001591299987921957,
+      "matching": 3.10969990096055e-05,
+      "equations": 0.0002281340020999778,
+      "total": 0.014030342001206009
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 11,
+    "blocks": 19,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 95,
+        "cols": 77,
+        "rank": 76,
+        "nullity": 1,
+        "elim_ops": 307356,
+        "inversions": 76,
+        "build_seconds": 0.0002606529997137841,
+        "solve_seconds": 0.013091806999000255,
+        "nnz": 1311,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20004,
+    "hint_values": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        2,
+        5
+      ]
+    ],
+    "seconds": {
+      "linear": 3.154000296490267e-06,
+      "transform": 0.00016601100287516601,
+      "matching": 3.4351996873738244e-05,
+      "equations": 0.0001991499993891921,
+      "total": 0.008818792000965914
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 9,
+    "blocks": 16,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 80,
+        "cols": 63,
+        "rank": 62,
+        "nullity": 1,
+        "elim_ops": 179377,
+        "inversions": 62,
+        "build_seconds": 0.00022661199909634888,
+        "solve_seconds": 0.007982180002727546,
+        "nnz": 1053,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20005,
+    "hint_values": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        2,
+        5
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 3.264001861680299e-06,
+      "transform": 0.00015173800056800246,
+      "matching": 3.177799953846261e-05,
+      "equations": 0.00022777299818699248,
+      "total": 0.013709107999602566
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 11,
+    "blocks": 19,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 95,
+        "cols": 77,
+        "rank": 76,
+        "nullity": 1,
+        "elim_ops": 299474,
+        "inversions": 76,
+        "build_seconds": 0.00025598600041121244,
+        "solve_seconds": 0.012785023998731049,
+        "nnz": 1279,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20006,
+    "hint_values": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.4750009945128113e-06,
+      "transform": 0.00014544000077876262,
+      "matching": 9.594500079401769e-05,
+      "equations": 0.00022847400032333098,
+      "total": 0.013994136999826878
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 11,
+    "blocks": 19,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 95,
+        "cols": 77,
+        "rank": 76,
+        "nullity": 1,
+        "elim_ops": 302632,
+        "inversions": 76,
+        "build_seconds": 0.0002578790008556098,
+        "solve_seconds": 0.012979636998352362,
+        "nnz": 1291,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20007,
+    "hint_values": [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        5
+      ],
+      [
+        1,
+        2,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.2758998713688925e-05,
+      "transform": 3.420200300752185e-05,
+      "matching": 2.327499896637164e-05,
+      "equations": 6.103200212237425e-05,
+      "total": 0.0007217890015454032
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      2
+    ],
+    "d": 2,
+    "n0": 5,
+    "s": 9,
+    "blocks": 10,
+    "linear_ops": 180,
+    "transform_ops": 720,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 18,
+        "rank": 17,
+        "nullity": 1,
+        "elim_ops": 6227,
+        "inversions": 17,
+        "build_seconds": 4.4357002479955554e-05,
+        "solve_seconds": 0.00036523100061458535,
+        "nnz": 220,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20008,
+    "hint_values": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        1,
+        1
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.1239978852681816e-06,
+      "transform": 0.00014276599904405884,
+      "matching": 3.2047999411588535e-05,
+      "equations": 0.00019610600065789185,
+      "total": 0.008870399000443285
+    },
+    "mask": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 9,
+    "blocks": 16,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 80,
+        "cols": 63,
+        "rank": 62,
+        "nullity": 1,
+        "elim_ops": 181509,
+        "inversions": 62,
+        "build_seconds": 0.0002186700003221631,
+        "solve_seconds": 0.008038905001740204,
+        "nnz": 1064,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      2,
+      3
+    ],
+    "seed": 20009,
+    "hint_values": [
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        5
+      ],
+      [
+        1,
+        0,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 3.264998667873442e-06,
+      "transform": 0.00022707299649482593,
+      "matching": 3.345000004628673e-05,
+      "equations": 0.0002343640007893555,
+      "total": 0.014382322999153985
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 11,
+    "blocks": 19,
+    "linear_ops": 0,
+    "transform_ops": 3150,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 95,
+        "cols": 77,
+        "rank": 76,
+        "nullity": 1,
+        "elim_ops": 306396,
+        "inversions": 76,
+        "build_seconds": 0.00028547000329126604,
+        "solve_seconds": 0.013328562999959104,
+        "nnz": 1273,
+        "solution": {
+          "x": [
+            1,
+            2,
+            3,
+            3,
+            1,
+            1,
+            5
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30000,
+    "hint_values": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        2,
+        4
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 5.380099901231006e-05,
+      "transform": 6.036099875927903e-05,
+      "matching": 2.405600025667809e-05,
+      "equations": 7.174799975473434e-05,
+      "total": 0.0010752419984783046
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [
+      3
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 265,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 24,
+        "rank": 23,
+        "nullity": 1,
+        "elim_ops": 15032,
+        "inversions": 23,
+        "build_seconds": 5.642500036628917e-05,
+        "solve_seconds": 0.0006847520016890485,
+        "nnz": 292,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30001,
+    "hint_values": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        0,
+        3
+      ]
+    ],
+    "seconds": {
+      "linear": 3.866000042762607e-06,
+      "transform": 0.00018242499936604872,
+      "matching": 3.231899972888641e-05,
+      "equations": 0.0001951749982254114,
+      "total": 0.011197780000657076
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 8,
+    "n0": 6,
+    "s": 8,
+    "blocks": 16,
+    "linear_ops": 0,
+    "transform_ops": 4160,
+    "matching_tests": 15,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 80,
+        "cols": 64,
+        "rank": 63,
+        "nullity": 1,
+        "elim_ops": 228564,
+        "inversions": 63,
+        "build_seconds": 0.0002382099992246367,
+        "solve_seconds": 0.0103376320003008,
+        "nnz": 1132,
+        "solution": {
+          "x": [
+            1,
+            1,
+            5,
+            1,
+            6,
+            0,
+            6,
+            4
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30002,
+    "hint_values": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.502199979266152e-05,
+      "transform": 5.536299795494415e-05,
+      "matching": 2.2864998754812405e-05,
+      "equations": 6.274400220718235e-05,
+      "total": 0.0009481799970672
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 260,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 45,
+        "cols": 21,
+        "rank": 20,
+        "nullity": 1,
+        "elim_ops": 11930,
+        "inversions": 20,
+        "build_seconds": 5.1748000259976834e-05,
+        "solve_seconds": 0.0006183930017868988,
+        "nnz": 289,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30003,
+    "hint_values": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "seconds": {
+      "linear": 3.3519998396513984e-05,
+      "transform": 5.470299947774038e-05,
+      "matching": 1.951000012923032e-05,
+      "equations": 6.221300282049924e-05,
+      "total": 0.0008962620013335254
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      1
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 233,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 45,
+        "cols": 21,
+        "rank": 20,
+        "nullity": 1,
+        "elim_ops": 9577,
+        "inversions": 20,
+        "build_seconds": 4.602999979397282e-05,
+        "solve_seconds": 0.0005785120010841638,
+        "nnz": 252,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30004,
+    "hint_values": [
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.307999941171147e-05,
+      "transform": 5.533399962587282e-05,
+      "matching": 1.9569997675716877e-05,
+      "equations": 7.060600182740018e-05,
+      "total": 0.0010754219983937219
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      1
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 233,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 24,
+        "rank": 23,
+        "nullity": 1,
+        "elim_ops": 12910,
+        "inversions": 23,
+        "build_seconds": 5.244899875833653e-05,
+        "solve_seconds": 0.000737812999432208,
+        "nnz": 292,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30005,
+    "hint_values": [
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        1,
+        2
+      ],
+      [
+        1,
+        3,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.491300230962224e-05,
+      "transform": 5.699599932995625e-05,
+      "matching": 2.0021001546410844e-05,
+      "equations": 0.0001555640010337811,
+      "total": 0.0012454790012270678
+    },
+    "mask": [
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "full": [
+      3
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 265,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 24,
+        "rank": 23,
+        "nullity": 1,
+        "elim_ops": 15146,
+        "inversions": 23,
+        "build_seconds": 5.514400254469365e-05,
+        "solve_seconds": 0.0006883079986437224,
+        "nnz": 302,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30006,
+    "hint_values": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        2,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 0.00012364600115688518,
+      "transform": 1.51129970618058e-05,
+      "matching": 1.219899786519818e-05,
+      "equations": 1.9970000721514225e-05,
+      "total": 0.00028769299751729704
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      0,
+      2
+    ],
+    "d": 1,
+    "n0": 4,
+    "s": 6,
+    "blocks": 4,
+    "linear_ops": 626,
+    "transform_ops": 320,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 20,
+        "cols": 6,
+        "rank": 5,
+        "nullity": 1,
+        "elim_ops": 357,
+        "inversions": 5,
+        "build_seconds": 1.2658998457482085e-05,
+        "solve_seconds": 2.7501999284140766e-05,
+        "nnz": 51,
+        "solution": {
+          "x": [
+            2,
+            2,
+            3,
+            2,
+            5,
+            0,
+            5,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30007,
+    "hint_values": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "seconds": {
+      "linear": 3.336999725433998e-05,
+      "transform": 5.543400038732216e-05,
+      "matching": 1.8647999240783975e-05,
+      "equations": 7.841799742891453e-05,
+      "total": 0.001561074001074303
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 260,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 24,
+        "rank": 23,
+        "nullity": 1,
+        "elim_ops": 18966,
+        "inversions": 23,
+        "build_seconds": 0.0001500569997006096,
+        "solve_seconds": 0.0010641150001902133,
+        "nnz": 328,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30008,
+    "hint_values": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        2,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.502300023683347e-05,
+      "transform": 5.540299753192812e-05,
+      "matching": 2.1472998923854902e-05,
+      "equations": 7.206900045275688e-05,
+      "total": 0.0012451080001483206
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [
+      0
+    ],
+    "d": 3,
+    "n0": 5,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 260,
+    "transform_ops": 1260,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 24,
+        "rank": 23,
+        "nullity": 1,
+        "elim_ops": 17174,
+        "inversions": 23,
+        "build_seconds": 5.789799979538657e-05,
+        "solve_seconds": 0.0008905730028345715,
+        "nnz": 331,
+        "solution": {
+          "x": [
+            6,
+            6,
+            2,
+            6,
+            1,
+            0,
+            1,
+            3
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      8,
+      2,
+      4
+    ],
+    "seed": 30009,
+    "hint_values": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1,
+        2
+      ],
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        1,
+        1,
+        2
+      ]
+    ],
+    "seconds": {
+      "linear": 0.00022602100216317922,
+      "transform": 1.643499854253605e-05,
+      "matching": 1.4092001947574317e-05,
+      "equations": 2.0731000404339284e-05,
+      "total": 0.0004006340022897348
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "full": [
+      0,
+      1
+    ],
+    "d": 1,
+    "n0": 4,
+    "s": 6,
+    "blocks": 4,
+    "linear_ops": 628,
+    "transform_ops": 320,
+    "matching_tests": 6,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 20,
+        "cols": 6,
+        "rank": 5,
+        "nullity": 1,
+        "elim_ops": 427,
+        "inversions": 5,
+        "build_seconds": 1.2459000572562218e-05,
+        "solve_seconds": 3.2099000236485153e-05,
+        "nnz": 51,
+        "solution": {
+          "x": [
+            2,
+            2,
+            3,
+            2,
+            5,
+            0,
+            5,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40000,
+    "hint_values": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        4
+      ],
+      [
+        2,
+        1,
+        3
+      ],
+      [
+        2,
+        2,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.354998625582084e-06,
+      "transform": 0.00015959099982865155,
+      "matching": 6.949499947950244e-05,
+      "equations": 0.0001353839979856275,
+      "total": 0.15780893600094714
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 45,
+        "cols": 49,
+        "rank": 45,
+        "nullity": 4,
+        "elim_ops": 74144,
+        "inversions": 45,
+        "build_seconds": 0.00022040199837647378,
+        "solve_seconds": 0.003267046999098966,
+        "nnz": 638
+      },
+      {
+        "b": 2,
+        "rows": 315,
+        "cols": 196,
+        "rank": 195,
+        "nullity": 1,
+        "elim_ops": 3671611,
+        "inversions": 195,
+        "build_seconds": 0.0010538089991314337,
+        "solve_seconds": 0.15126863100158516,
+        "nnz": 4466,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40001,
+    "hint_values": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        2,
+        0,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.7949976103845984e-06,
+      "transform": 0.00026109399914275855,
+      "matching": 0.0001559550000820309,
+      "equations": 0.00019713700021384284,
+      "total": 0.4401130629994441
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 10,
+    "blocks": 13,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 65,
+        "cols": 70,
+        "rank": 65,
+        "nullity": 5,
+        "elim_ops": 192377,
+        "inversions": 65,
+        "build_seconds": 0.0002403819999017287,
+        "solve_seconds": 0.00885062900124467,
+        "nnz": 903
+      },
+      {
+        "b": 2,
+        "rows": 455,
+        "cols": 280,
+        "rank": 279,
+        "nullity": 1,
+        "elim_ops": 10207260,
+        "inversions": 279,
+        "build_seconds": 0.001916361001349287,
+        "solve_seconds": 0.4249755800010462,
+        "nnz": 6321,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40002,
+    "hint_values": [
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        0,
+        4
+      ],
+      [
+        2,
+        2,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 4.116998752579093e-06,
+      "transform": 0.00029988199821673334,
+      "matching": 7.38320013624616e-05,
+      "equations": 0.00015620500198565423,
+      "total": 0.15924514400103362
+    },
+    "mask": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 45,
+        "cols": 49,
+        "rank": 45,
+        "nullity": 4,
+        "elim_ops": 72916,
+        "inversions": 45,
+        "build_seconds": 0.00014238500079954974,
+        "solve_seconds": 0.0035422929977357853,
+        "nnz": 651
+      },
+      {
+        "b": 2,
+        "rows": 315,
+        "cols": 196,
+        "rank": 195,
+        "nullity": 1,
+        "elim_ops": 3623734,
+        "inversions": 195,
+        "build_seconds": 0.001072557999577839,
+        "solve_seconds": 0.15226674799851025,
+        "nnz": 4557,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40003,
+    "hint_values": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        2,
+        0,
+        4
+      ],
+      [
+        2,
+        1,
+        3
+      ]
+    ],
+    "seconds": {
+      "linear": 3.754998033400625e-06,
+      "transform": 0.0003769089998968411,
+      "matching": 0.00012595999942277558,
+      "equations": 0.00019127899940940551,
+      "total": 0.427261267999711
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 10,
+    "blocks": 13,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 65,
+        "cols": 70,
+        "rank": 65,
+        "nullity": 5,
+        "elim_ops": 180483,
+        "inversions": 65,
+        "build_seconds": 0.00020806399697903544,
+        "solve_seconds": 0.007667435002076672,
+        "nnz": 873
+      },
+      {
+        "b": 2,
+        "rows": 455,
+        "cols": 280,
+        "rank": 279,
+        "nullity": 1,
+        "elim_ops": 10056614,
+        "inversions": 279,
+        "build_seconds": 0.001480733000789769,
+        "solve_seconds": 0.41407929499837337,
+        "nnz": 6111,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40004,
+    "hint_values": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        0,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.545999788912013e-06,
+      "transform": 0.0001754950026224833,
+      "matching": 6.648999988101423e-05,
+      "equations": 0.0002650399983394891,
+      "total": 0.5004019080006401
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 10,
+    "blocks": 13,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 65,
+        "cols": 70,
+        "rank": 65,
+        "nullity": 5,
+        "elim_ops": 194717,
+        "inversions": 65,
+        "build_seconds": 0.0002492060011718422,
+        "solve_seconds": 0.008684989999892423,
+        "nnz": 915
+      },
+      {
+        "b": 2,
+        "rows": 455,
+        "cols": 280,
+        "rank": 279,
+        "nullity": 1,
+        "elim_ops": 10425984,
+        "inversions": 279,
+        "build_seconds": 0.0018022990007011686,
+        "solve_seconds": 0.485660212001676,
+        "nnz": 6405,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40005,
+    "hint_values": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        0,
+        4
+      ],
+      [
+        2,
+        1,
+        3
+      ],
+      [
+        2,
+        2,
+        6
+      ]
+    ],
+    "seconds": {
+      "linear": 3.6860001273453236e-06,
+      "transform": 0.00015146800069487654,
+      "matching": 9.793800199986435e-05,
+      "equations": 0.0001429860021744389,
+      "total": 0.24098813100135885
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 8,
+    "blocks": 10,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 50,
+        "cols": 56,
+        "rank": 50,
+        "nullity": 6,
+        "elim_ops": 103207,
+        "inversions": 50,
+        "build_seconds": 0.00015489399811485782,
+        "solve_seconds": 0.005023496996727772,
+        "nnz": 728
+      },
+      {
+        "b": 2,
+        "rows": 350,
+        "cols": 224,
+        "rank": 223,
+        "nullity": 1,
+        "elim_ops": 5364428,
+        "inversions": 223,
+        "build_seconds": 0.0012675819998548832,
+        "solve_seconds": 0.23185310099870549,
+        "nnz": 5096,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40006,
+    "hint_values": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        2,
+        1,
+        3
+      ]
+    ],
+    "seconds": {
+      "linear": 3.348100290168077e-05,
+      "transform": 3.6454999644774944e-05,
+      "matching": 3.269999797339551e-05,
+      "equations": 3.283900150563568e-05,
+      "total": 0.0003691870006150566
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "full": [
+      1
+    ],
+    "d": 2,
+    "n0": 5,
+    "s": 6,
+    "blocks": 4,
+    "linear_ops": 152,
+    "transform_ops": 740,
+    "matching_tests": 10,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 20,
+        "cols": 12,
+        "rank": 11,
+        "nullity": 1,
+        "elim_ops": 2058,
+        "inversions": 11,
+        "build_seconds": 2.493799911462702e-05,
+        "solve_seconds": 0.00011158799679833464,
+        "nnz": 114,
+        "solution": {
+          "x": [
+            6,
+            1,
+            1,
+            2,
+            0,
+            1,
+            6
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40007,
+    "hint_values": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        0,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.3950018405448645e-06,
+      "transform": 0.00025318200277979486,
+      "matching": 6.33650015515741e-05,
+      "equations": 0.00030809400050202385,
+      "total": 0.443475452997518
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 10,
+    "blocks": 13,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 65,
+        "cols": 70,
+        "rank": 65,
+        "nullity": 5,
+        "elim_ops": 190475,
+        "inversions": 65,
+        "build_seconds": 0.00023983199935173616,
+        "solve_seconds": 0.00827182799912407,
+        "nnz": 877
+      },
+      {
+        "b": 2,
+        "rows": 455,
+        "cols": 280,
+        "rank": 279,
+        "nullity": 1,
+        "elim_ops": 10219016,
+        "inversions": 279,
+        "build_seconds": 0.0014663119982287753,
+        "solve_seconds": 0.4296544950011594,
+        "nnz": 6139,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40008,
+    "hint_values": [
+      [
+        0,
+        1,
+        4
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        1,
+        2,
+        0
+      ],
+      [
+        2,
+        0,
+        4
+      ]
+    ],
+    "seconds": {
+      "linear": 3.544999344740063e-06,
+      "transform": 0.00017802900038077496,
+      "matching": 7.285999890882522e-05,
+      "equations": 0.00016770300135249272,
+      "total": 0.33803652499773307
+    },
+    "mask": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        0
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 9,
+    "blocks": 12,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 60,
+        "cols": 63,
+        "rank": 60,
+        "nullity": 3,
+        "elim_ops": 163474,
+        "inversions": 60,
+        "build_seconds": 0.00016912600040086545,
+        "solve_seconds": 0.010006966000219109,
+        "nnz": 810
+      },
+      {
+        "b": 2,
+        "rows": 420,
+        "cols": 252,
+        "rank": 251,
+        "nullity": 1,
+        "elim_ops": 7863420,
+        "inversions": 251,
+        "build_seconds": 0.0013832559998263605,
+        "solve_seconds": 0.3215310949999548,
+        "nnz": 5670,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  },
+  {
+    "params": [
+      7,
+      5,
+      6,
+      7,
+      3,
+      5
+    ],
+    "seed": 40009,
+    "hint_values": [
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        2
+      ],
+      [
+        1,
+        0,
+        6
+      ],
+      [
+        1,
+        1,
+        6
+      ],
+      [
+        1,
+        2,
+        0
+      ]
+    ],
+    "seconds": {
+      "linear": 4.045999958179891e-06,
+      "transform": 0.00015361199984909035,
+      "matching": 6.918399958522059e-05,
+      "equations": 0.0001252490001206752,
+      "total": 0.162618897997163
+    },
+    "mask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "full": [],
+    "d": 7,
+    "n0": 6,
+    "s": 7,
+    "blocks": 9,
+    "linear_ops": 0,
+    "transform_ops": 3290,
+    "matching_tests": 20,
+    "macaulay": [
+      {
+        "b": 1,
+        "rows": 45,
+        "cols": 49,
+        "rank": 45,
+        "nullity": 4,
+        "elim_ops": 78324,
+        "inversions": 45,
+        "build_seconds": 0.00013999099974171259,
+        "solve_seconds": 0.010852872001123615,
+        "nnz": 638
+      },
+      {
+        "b": 2,
+        "rows": 315,
+        "cols": 196,
+        "rank": 195,
+        "nullity": 1,
+        "elim_ops": 3635488,
+        "inversions": 195,
+        "build_seconds": 0.0010274999985995237,
+        "solve_seconds": 0.1485632039984921,
+        "nnz": 4466,
+        "solution": {
+          "x": [
+            1,
+            6,
+            6,
+            5,
+            0,
+            6,
+            1
+          ],
+          "valid": true
+        }
+      }
+    ]
+  }
+]
