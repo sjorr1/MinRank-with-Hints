@@ -1,0 +1,24 @@
+{
+  "description": "Original archive parameter set 4; one public instance and ten masks.",
+  "parameters": {
+    "q": 7,
+    "m": 5,
+    "n": 6,
+    "K": 8,
+    "r": 2,
+    "h": 4
+  },
+  "instances": [
+    "set-4/trial-01.json",
+    "set-4/trial-02.json",
+    "set-4/trial-03.json",
+    "set-4/trial-04.json",
+    "set-4/trial-05.json",
+    "set-4/trial-06.json",
+    "set-4/trial-07.json",
+    "set-4/trial-08.json",
+    "set-4/trial-09.json",
+    "set-4/trial-10.json"
+  ],
+  "max_degree": 3
+}
